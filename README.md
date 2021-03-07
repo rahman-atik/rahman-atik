@@ -2,4 +2,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Atik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahman-atik&show_icons=true&theme=radical)
