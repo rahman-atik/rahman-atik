@@ -58,26 +58,31 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Atikur Rahman's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=rahman-atik&show_icons=true&theme=radical" />
+        <img alt="Md. Imran Nazir's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=emoncse&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Gmail -->
-        <a href="mailto:dev.atikurrahman@gmail.com" target="_blank"><img alt="Gmail"
+        <a href="mailto:emon.genius@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- Facebook -->
-        <a href="https://www.facebook.com/atikur11" target="_blank"><img alt="Facebook"
+        <a href="https://www.facebook.com/emon.dmhs" target="_blank"><img alt="Facebook"
                 src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
         </a>
         <!-- Instagram -->
-        
+        <a href="https://www.instagram.com/emon_cse/" target="_blank"><img alt="Instagram"
+                src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+        </a>
         <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/atikur11/" target="_blank"><img alt="Linkedin"
+        <a href="https://www.linkedin.com/in/imrannaziremon/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
-        
+        <!-- Youtube -->
+        <a href="https://www.youtube.com/channel/UCI5llnwLbmcHoqlEf0kOksw/videos" target="_blank"><img alt="Youtube"
+                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
+        </a>
     </p>
 </details>
 <br>
