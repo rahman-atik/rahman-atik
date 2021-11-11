@@ -71,15 +71,12 @@
         <a href="https://www.facebook.com/atikur11" target="_blank"><img alt="Facebook"
                 src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
         </a>
-        <!-- Instagram -->
-        <a href="https://www.instagram.com/emon_cse/" target="_blank"><img alt="Instagram"
-                src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
-        </a>
+        
         <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/imrannaziremon/" target="_blank"><img alt="Linkedin"
+        <a href="https://www.linkedin.com/in/atikur11/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
-        <!-- Youtube -->
+
     </p>
 </details>
 <br>
