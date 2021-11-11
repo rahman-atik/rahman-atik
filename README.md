@@ -43,7 +43,7 @@
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         </a>
         <!-- Python -->
-        <a href="https://github.com/rahman-atik?tab=repositories" target="_blank"><img alt="Python"
+        <a href="https://github.com/rahman-atik?tab=repositories" target="_blank"><img alt="C#"
                         src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         </a>
         <!-- C++ -->
