@@ -80,9 +80,7 @@
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
         <!-- Youtube -->
-        <a href="https://www.youtube.com/channel/UCI5llnwLbmcHoqlEf0kOksw/videos" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
-        </a>
+        
     </p>
 </details>
 <br>
