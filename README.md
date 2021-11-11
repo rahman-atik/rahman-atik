@@ -8,7 +8,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello there! I am
-                <b><a target="_blank" href="https://rahman-atik.github.io/portfolio/">MD. Atikur Rahman</a></b>
+                <b><a target="_blank" href="https://rahman-atik.github.io/portfolio/">Atikur Rahman</a></b>
         </samp>
 </h3>
 <br>
@@ -58,13 +58,13 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Md. Imran Nazir's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=emoncse&show_icons=true&theme=radical" />
+        <img alt="Atikur Rahman's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=rahman-atik&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Gmail -->
-        <a href="mailto:emon.genius@gmail.com" target="_blank"><img alt="Gmail"
+        <a href="mailto:dev.atikurrahman@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- Facebook -->
@@ -80,9 +80,6 @@
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
         <!-- Youtube -->
-        <a href="https://www.youtube.com/channel/UCI5llnwLbmcHoqlEf0kOksw/videos" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
-        </a>
     </p>
 </details>
 <br>
