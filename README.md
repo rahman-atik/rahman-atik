@@ -21,7 +21,7 @@
                 「 Software Engineer@<b> Ulka Games Ltd</b> 」
                 <br>
                 <br>
-                「 Student, Computer Science & Engineering @<b> Southeast University</b> 」
+                「 Computer Science & Engineering @<b> Southeast University</b> 」
                 <br>
                 <br>
         </samp>
