@@ -29,6 +29,7 @@
         <!-- Code logo -->
         <a href="https://github.com/rahman-atik?tab=repositories" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
+        </a>
         
         <!-- JavaScript -->
         <a href="https://github.com/rahman-atik?tab=repositories" target="_blank"><img alt="JavaScript"
