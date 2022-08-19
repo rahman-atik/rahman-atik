@@ -18,11 +18,7 @@
         <samp>
                 「 From Dhaka, Bangladesh 」
                  <br>
-                「 Software Engineer@<b> Ulka Games Ltd</b> 」
-                <br>
-                <br>
-                「 Computer Science & Engineering @<b> Southeast University</b> 」
-                <br>
+                「 Software Engineer</b> 」
                 <br>
         </samp>
         <!-- Programming Languages -->
