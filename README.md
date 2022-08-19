@@ -12,9 +12,11 @@
         </samp>
 </h3>
 
+<samp>
 <p align="center">
 A, Co-Founder & Software Engineer 
 </p>
+</samp>
 
 <!-- Footer -->
 <samp>
